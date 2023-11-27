@@ -78,6 +78,7 @@ button {
     border-radius: 10px;
     background-color: #3882F6;
     color: #E5E7EB;
+    font-weight: bold;
 }
 
 
@@ -150,4 +151,28 @@ h3 {
     text-align: end;
     font-weight: bold;
     font-style: normal;
+}
+
+.join {
+
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.join-container {
+    background-color: #3882F6;
+    height: 150px;
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #E5E7EB;
+    border-radius: 5px;
+    
+}
+
+.join-container button {
+    border: 1px solid white;
 }
