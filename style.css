@@ -176,3 +176,12 @@ h3 {
 .join-container button {
     border: 1px solid white;
 }
+
+.footer {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
