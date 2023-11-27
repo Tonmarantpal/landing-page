@@ -129,3 +129,25 @@ h3 {
     color: #1F2937;
     padding-bottom: 40px;
 }
+
+.quote {
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-container {
+    width: 800px;
+
+}
+
+.quote-container p {
+    text-align: end;
+    font-weight: bold;
+    font-style: normal;
+}
